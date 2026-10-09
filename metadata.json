@@ -1,0 +1,6 @@
+{
+  "name": "Jão Burger - Totem de Autoatendimento",
+  "description": "Sistema de autoatendimento touchscreen do restaurante Jão Burger com integração a Supabase e webhook n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
